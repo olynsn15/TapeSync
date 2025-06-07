@@ -22,6 +22,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)
 <br>
+<br>
 
 ## 📌 Notes
 - Project designed for the **MCC Lab final Project**  
