@@ -1,6 +1,7 @@
 # 🎬 TapeSync
 
 **TapeSync** is a Flutter-based mobile application that allows users to explore and purchase movies. Users can browse a wide selection of films based on genre, view detailed information about each movie, and purchase their favorite titles—all in one place.
+<br>
 
 ## 🚀 Features
 
