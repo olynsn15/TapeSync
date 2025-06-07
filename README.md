@@ -16,10 +16,12 @@
 - 💳 **Purchase Movies**  
   Purchase your favorite movies directly from the app.
 
+
 ## 💻 Tech Stack
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)
+
 
 ## 📌 Notes
 - Project designed for the **MCC Lab final Project**  
