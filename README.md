@@ -4,22 +4,17 @@
 **TapeSync** is a Flutter-based mobile application that allows users to explore and purchase movies. Users can browse a wide selection of films based on genre, view detailed information about each movie, and purchase their favorite titles—all in one place.
 <br><br>
 
-## 🚀 Features
-
-- 🔍 **Browse by Genre**  
-  Discover movies categorized by genre for a personalized browsing experience.
-
-- 📄 **Movie Details**  
-  View comprehensive details of each movie, including:
-  - ⭐ Rating
-  - 📝 Synopsis
-  - 💰 Price
-
-- 💳 **Purchase Movies**  
-  Purchase your favorite movies directly from the app.
+## Features
+- **Secure user authentication with login and registration functionality**, implemented using JWT tokens for safe and reliable session management
+- **Browse movies by genre** (Action, Comedy, Romance, Horror, Thriller, Family, and more)  
+- **Detailed movie pages** showing rating, synopsis, and price  
+- **Shopping cart and basket management** to add, update, or remove movie selections      
+- **Admin dashboard** for managing movies shown to user's page 
+- Built with **Flutter (Dart)** for the frontend, **Node.js + MySQL** for the backend  
+- Designed for a **seamless, mobile-first user experience**  
 <br><br>
 
-## 💻 Tech Stack
+## Tech Stack
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)
@@ -130,6 +125,12 @@ Kelompok 3 - Project MCC/
 
 ## Notes
 ```
+- Integrated Google Account sign-in through the Google API for seamless user authentication
+
+- Assets used :
+Fonts : Afacad (via Google Fonts (https://fonts.google.com))
+Images : IMP Awards (http://www.impawards.com/)
+
 TapeSync is a semester-long final group project developed for the Mobile Cloud Computing LAB course
 ```
 <br><br>
