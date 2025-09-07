@@ -1,8 +1,8 @@
-# 🎬 TapeSync
+# TapeSync 📼
+### Final Project Mobile Cloud Computing LAB
 
 **TapeSync** is a Flutter-based mobile application that allows users to explore and purchase movies. Users can browse a wide selection of films based on genre, view detailed information about each movie, and purchase their favorite titles—all in one place.
-<br>
-<br>
+<br><br>
 
 ## 🚀 Features
 
@@ -17,26 +17,119 @@
 
 - 💳 **Purchase Movies**  
   Purchase your favorite movies directly from the app.
-<br>
+<br><br>
 
 ## 💻 Tech Stack
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)
-<br>
+<br><br>
+
+## Project Structure
+```
+Kelompok 3 - Project MCC/
+├── .DS_Store
+├── app_movies/
+│   ├── .gitignore
+│   ├── .metadata
+│   ├── analysis_options.yaml
+│   ├── android/
+│   ├── ios/
+│   ├── lib/
+│   │   ├── api/
+│   │   │   └── api.dart
+│   │   ├── components/
+│   │   │   ├── button.dart
+│   │   │   ├── card_list_item.dart
+│   │   │   ├── card_list_user.dart
+│   │   │   ├── checkout_total.dart
+│   │   │   ├── list_card_basket.dart
+│   │   │   ├── outlined_text.dart
+│   │   │   ├── payment_options.dart
+│   │   │   ├── popup_form.dart
+│   │   │   ├── product_card.dart
+│   │   │   ├── square_title.dart
+│   │   │   ├── summary_card.dart
+│   │   │   ├── textfields.dart
+│   │   │   └── video_card_widget.dart
+│   │   ├── Genres/
+│   │   │   ├── action.dart
+│   │   │   ├── all_movies.dart
+│   │   │   ├── comedy.dart
+│   │   │   ├── family_movies.dart
+│   │   │   ├── horror.dart
+│   │   │   ├── romance.dart
+│   │   │   └── thriller.dart
+│   │   ├── helper/
+│   │   │   ├── auth_service.dart
+│   │   │   └── toast.dart
+│   │   ├── main.dart
+│   │   ├── models/
+│   │   │   ├── admin.dart
+│   │   │   ├── googleAPI.dart
+│   │   │   ├── purchase.dart
+│   │   │   ├── tapes.dart
+│   │   │   └── user.dart
+│   │   ├── pages/
+│   │   │   ├── admin_page.dart
+│   │   │   ├── basket_page.dart
+│   │   │   ├── cart_tapes.dart
+│   │   │   ├── checkout_page.dart
+│   │   │   ├── detail_checkout.dart
+│   │   │   ├── detail_page.dart
+│   │   │   ├── home_page.dart
+│   │   │   ├── insert_admin.dart
+│   │   │   ├── insert_product.dart
+│   │   │   ├── login_page.dart
+│   │   │   ├── main_page.dart
+│   │   │   ├── payment.dart
+│   │   │   ├── register_page.dart
+│   │   │   ├── thankyou_card.dart
+│   │   │   └── welcome_page.dart
+│   │   └── shared/
+│   │       └── theme.dart
+│   ├── linux/
+│   ├── macos/
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── pubspec.lock
+│   ├── pubspec.yaml
+│   ├── README.md
+│   ├── test/
+│   │   └── widget_test.dart
+│   ├── web/
+│   └── windows/
+├── app_tape_backend/
+│   ├── .DS_Store
+│   ├── .env
+│   ├── app.js
+│   ├── assets/
+│   │   ├── .DS_Store
+│   ├── bin/
+│   │   └── www
+│   ├── database/
+│   │   └── connection.js
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── public/
+│   │   ├── .DS_Store
+│   │   ├── index.html
+│   │   └── stylesheets/
+│   │       └── style.css
+│   └── routes/
+│       ├── admin.js
+│       ├── index.js
+│       ├── tapes.js
+│       └── users.js
+├── Documentation External_Group 3.pdf
+├── Kelompok 3 - Project MCC/
+└── MySql/
+    └── video_tape.sql
+```
 <br>
 
-## 📌 Notes
-- Project designed for the **MCC Lab final Project**  
-<br>
-
-## 📦 Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/tapesync.git
-   cd tapesync
-2. **Install dependencies**
-   ``flutter pub get
-3. **Run the app**
-   ``flutter run
+## Notes
+```
+TapeSync is a semester-long final group project developed for the Mobile Cloud Computing LAB course
+```
+<br><br>
